@@ -26,6 +26,14 @@ git clone <your-repo-link>
 # Go to project folder
 cd rapid-crisis
 
+## Screenshots 
+![Screenshot1](./ss1.png)  
+![Screenshot2](./ss2.png)
+![Screenshot3](./ss3.png)
+![Screenshot4](./ss4.png)
+![Screenshot5](./ss5.png)
+![Screenshot6](./ss6.png)
+
 # Install dependencies (root, client, and server)
 npm install
 cd client && npm install && cd ..
